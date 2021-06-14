@@ -5,8 +5,8 @@ Learning hints for Asib
 
 - [Golang (wiki)](https://en.wikipedia.org/wiki/Go_(programming_language))
 - [Golang](https://golang.org/)
-- [Flutter (wiki)] (https://en.wikipedia.org/wiki/Flutter_(software))
-- [Flutter] (https://flutter.dev/)
+- [Flutter (wiki)](https://en.wikipedia.org/wiki/Flutter_(software))
+- [Flutter](https://flutter.dev/)
 
 
 ### Cloud
